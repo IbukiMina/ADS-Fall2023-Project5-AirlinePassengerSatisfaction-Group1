@@ -3,7 +3,7 @@
 Term: Fall 2023
 
 + Team 1
-+ Projec title: Airline Passenger Satisfaction
++ Projec title: **Airline Passenger Satisfaction**
 + Team members
 	Lia Cho
 	Chencan Zou
