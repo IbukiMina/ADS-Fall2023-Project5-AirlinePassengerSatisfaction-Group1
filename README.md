@@ -5,12 +5,12 @@ Term: Fall 2023
 + Team 1
 + Projec title: **Airline Passenger Satisfaction**
 + Team members
-	+ Lia Cho
-	+ Chencan Zou
-	+ Yufei Wang
-	+ Shreya Verma
-	+ Nashita Rahman
-+ Project summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	+ Lia Cho (lc3683)
+	+ Chencan Zou (cz2675)
+	+ Yufei Wang (yw372)
+	+ Shreya Verma (sv2631)
+	+ Nashita Rahman (nfr2111)
++ Project summary: We conduct a series of prediction models to determine the best fit model for predicting airline customer satisfaction. We utilize an airline passenger satistfaction survey to determine which factors lead to a satisfied, and likewise disatisfied customer. To predict customer satisfaction, we use five different models, the Random Forest classifier, XG Boost, KNN, Ada Boost, and Gradient Boosting. We employed these methods and compared their accuracy to determine the best fit for prediction. 
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
